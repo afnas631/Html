@@ -1,7 +1,7 @@
 # Html
 <html>
   <head>
-    <title>Afnas</title>
+    <title> Afnas</title>
   </head>
   <body>
     <h1>welcome to the ati
